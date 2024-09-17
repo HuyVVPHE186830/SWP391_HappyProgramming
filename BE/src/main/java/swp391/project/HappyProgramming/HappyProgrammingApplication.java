@@ -10,7 +10,7 @@ public class HappyProgrammingApplication {
 		System.out.println("hehhe");
 		System.out.println("okokok");
 		SpringApplication.run(HappyProgrammingApplication.class, args);
-int i = 0;
+                int i = 1;
 	}
 
 }
